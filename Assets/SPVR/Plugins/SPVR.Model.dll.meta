@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: bce5acdaf00ab1748b300327ea4367d9
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder:
+    SPVR.Model.FilteredReceiveTransferNetworUnity: -10
+    SPVR.Model.ModelManager: -98
+    SPVR.Model.ReceiveTransferNetworkUnity: -10
+    SPVR.Model.SPVRModel: -10
+    SPVR.Model.ShareFileController: -10
+  defineConstraints: []
+  isPreloaded: 0
+  isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
+  platformData:
+  - first:
+      Any: 
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  - first:
+      Windows Store Apps: WindowsStoreApps
+    second:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 261b53912cbfcec468207ab24ae97618
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder:
+    SPVR.Network.Controller.VoiceChatUnit: -10
+    SPVR.Network.LobbyBehaviour: -10
+    SPVR.Network.MatchMakingBehaviour: -10
+    SPVR.Network.NetworkUnit: -10
+    SPVR.Network.RoomBehaviour: -10
+    SPVR.Network.Sample.MessageBroker: -10
+    SPVR.Network.Sample.StatusObserver: -10
+    SPVR.Network.Sample.SyncModel: -10
+  defineConstraints: []
+  isPreloaded: 0
+  isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
+  platformData:
+  - first:
+      Any: 
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  - first:
+      Windows Store Apps: WindowsStoreApps
+    second:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

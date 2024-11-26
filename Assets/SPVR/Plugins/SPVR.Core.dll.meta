@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: bff19b18b45758d47bb06df5a4730f9e
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder:
+    SPVR.Core.Dispatcher: -200
+    SPVR.Core.DownLoader: -4
+    SPVR.Core.FileLoader: -4
+    SPVR.Core.SPVRAssetManager: -5
+    SPVR.Core.SceneManager: -99
+  defineConstraints: []
+  isPreloaded: 0
+  isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
+  platformData:
+  - first:
+      Any: 
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  - first:
+      Windows Store Apps: WindowsStoreApps
+    second:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

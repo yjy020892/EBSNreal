@@ -1,0 +1,24 @@
+{
+  "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[SPVR.Core.SettingItem, SPVR.Core]], mscorlib",
+  "JOURNEY_ServerIP": {
+    "$type": "SPVR.Core.SettingItem, SPVR.Core",
+    "name": "JOURNEY_ServerIP",
+    "settingType": 1,
+    "dataType": 3,
+    "data": "192.168.0.49"
+  },
+  "JOURNEY_ServerPORT": {
+    "$type": "SPVR.Core.SettingItem, SPVR.Core",
+    "name": "JOURNEY_ServerPORT",
+    "settingType": 1,
+    "dataType": 1,
+    "data": 50001
+  },
+  "Server_Component_Name": {
+    "$type": "SPVR.Core.SettingItem, SPVR.Core",
+    "name": "Server_Component_Name",
+    "settingType": 1,
+    "dataType": 3,
+    "data": "SPVR.Network.ThirdrdParty.Journey.JourneyManager,SPVR.Network.Journey"
+  }
+}
